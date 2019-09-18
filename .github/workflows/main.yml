@@ -1,5 +1,5 @@
 name: CI
-
+uses: appleboy/jenkins-action@0.0.1
 on: [push]
 
 jobs:
